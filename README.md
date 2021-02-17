@@ -1,1 +1,5 @@
-# self-designed-game-by-by-shaguftahh
+# JavaScript-Snake-Game
+
+JavaScript Snake game sources 
+http://zetcode.com/javascript/snake/
+
